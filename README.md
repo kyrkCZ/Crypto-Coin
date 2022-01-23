@@ -1,2 +1,2 @@
 # Crypto-Coin
-Simple cryptocurrency trycker app
+Simple cryptocurrency tracker app
