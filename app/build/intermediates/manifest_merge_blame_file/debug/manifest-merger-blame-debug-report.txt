@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ideeastudios.coin.market"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+10    <!-- přístup k internetu -->
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:6:5-21:19
+14        android:allowBackup="true"
+14-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:7:9-35
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:8:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:10:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:12:9-40
+22        <activity android:name="com.jakub.coin.CryptoCoin.MainActivity" >
+22-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:13:9-19:20
+22-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:13:19-72
+23            <intent-filter>
+23-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:14:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:15:17-69
+24-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:17:17-77
+26-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="com.jakub.coin.CryptoCoin.Coiny" />
+29-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:20:9-77
+29-->C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:20:19-65
+30    </application>
+31
+32</manifest>
