@@ -1,0 +1,13 @@
+com.jakub.coin.CryptoCoin.app-support-core-ui-27.1.1-0 C:\Users\kramn\.gradle\caches\transforms-3\0a32a97504fab983b1f4b261d927f897\transformed\support-core-ui-27.1.1\res
+com.jakub.coin.CryptoCoin.app-support-compat-27.1.1-1 C:\Users\kramn\.gradle\caches\transforms-3\769caebe439c066c12f47014f596e150\transformed\support-compat-27.1.1\res
+com.jakub.coin.CryptoCoin.app-recyclerview-v7-27.1.1-2 C:\Users\kramn\.gradle\caches\transforms-3\8a1ecca70b725e465c53c894c6d56c98\transformed\recyclerview-v7-27.1.1\res
+com.jakub.coin.CryptoCoin.app-appcompat-v7-27.1.1-3 C:\Users\kramn\.gradle\caches\transforms-3\9793180ec4747a9f10f1963bf5a36a1b\transformed\appcompat-v7-27.1.1\res
+com.jakub.coin.CryptoCoin.app-constraint-layout-1.1.2-4 C:\Users\kramn\.gradle\caches\transforms-3\eadc59be30fdfbaddef8f4e4760c6312\transformed\constraint-layout-1.1.2\res
+com.jakub.coin.CryptoCoin.app-pngs-5 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\build\generated\res\pngs\debug
+com.jakub.coin.CryptoCoin.app-resValues-6 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\build\generated\res\resValues\debug
+com.jakub.coin.CryptoCoin.app-rs-7 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\build\generated\res\rs\debug
+com.jakub.coin.CryptoCoin.app-mergeDebugResources-8 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.jakub.coin.CryptoCoin.app-mergeDebugResources-9 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.jakub.coin.CryptoCoin.app-merged_res-10 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\build\intermediates\merged_res\debug
+com.jakub.coin.CryptoCoin.app-debug-11 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\debug\res
+com.jakub.coin.CryptoCoin.app-main-12 C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\res

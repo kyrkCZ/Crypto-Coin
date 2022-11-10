@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\9793180ec4747a9f10f1963bf5a36a1b\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\6d40ff053e154bcb5e16e00742e6b64d\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\8a1ecca70b725e465c53c894c6d56c98\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\22ddc4b6d07f82eceaf530cf7646c44f\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\0a32a97504fab983b1f4b261d927f897\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\0fd4d4bd9d96f555ec31af79c51cc2df\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kramn\.gradle\caches\transforms-3\eadc59be30fdfbaddef8f4e4760c6312\transformed\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\9a656e181cd7539f43023be3187d6700\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\769caebe439c066c12f47014f596e150\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\3c1989fa8adc4563c0235d4167f3280c\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\fd7b7403f415e5b89c0fc978fc3fe4b1\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\34139a051d0fe92a4dc254d6528b8082\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\2df31dbced21a1bff3c4067e4ee808a2\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kramn\.gradle\caches\transforms-3\eadc59be30fdfbaddef8f4e4760c6312\transformed\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kramn\.gradle\caches\transforms-3\eadc59be30fdfbaddef8f4e4760c6312\transformed\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.jakub.coin.CryptoCoin.MainActivity
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:13:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.jakub.coin.CryptoCoin.Coiny
+ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:20:9-77
+	android:name
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml:20:19-65
+uses-sdk
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\9793180ec4747a9f10f1963bf5a36a1b\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\9793180ec4747a9f10f1963bf5a36a1b\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\6d40ff053e154bcb5e16e00742e6b64d\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\6d40ff053e154bcb5e16e00742e6b64d\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\8a1ecca70b725e465c53c894c6d56c98\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\8a1ecca70b725e465c53c894c6d56c98\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\22ddc4b6d07f82eceaf530cf7646c44f\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\22ddc4b6d07f82eceaf530cf7646c44f\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\0a32a97504fab983b1f4b261d927f897\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\0a32a97504fab983b1f4b261d927f897\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\0fd4d4bd9d96f555ec31af79c51cc2df\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\0fd4d4bd9d96f555ec31af79c51cc2df\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kramn\.gradle\caches\transforms-3\eadc59be30fdfbaddef8f4e4760c6312\transformed\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\kramn\.gradle\caches\transforms-3\eadc59be30fdfbaddef8f4e4760c6312\transformed\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\9a656e181cd7539f43023be3187d6700\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\9a656e181cd7539f43023be3187d6700\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\769caebe439c066c12f47014f596e150\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kramn\.gradle\caches\transforms-3\769caebe439c066c12f47014f596e150\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\3c1989fa8adc4563c0235d4167f3280c\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\3c1989fa8adc4563c0235d4167f3280c\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\fd7b7403f415e5b89c0fc978fc3fe4b1\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\fd7b7403f415e5b89c0fc978fc3fe4b1\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\34139a051d0fe92a4dc254d6528b8082\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\34139a051d0fe92a4dc254d6528b8082\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\2df31dbced21a1bff3c4067e4ee808a2\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kramn\.gradle\caches\transforms-3\2df31dbced21a1bff3c4067e4ee808a2\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kramn\Documents\GitHub\Crypto-Coin\app\src\main\AndroidManifest.xml
