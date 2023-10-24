@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.jakub.coin.CryptoCoin.app-mergeDebugResources-8:/values-v16/values-v16.xml",
+            "outputFile": "com.jakub.coin.CryptoCoin.app-mergeDebugResources-21:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kramn\\.gradle\\caches\\transforms-3\\769caebe439c066c12f47014f596e150\\transformed\\support-compat-27.1.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\kramn\\.gradle\\caches\\transforms-3\\5bed316c9c43a8bc7d9832f0735edfcf\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kramn\\.gradle\\caches\\transforms-3\\9793180ec4747a9f10f1963bf5a36a1b\\transformed\\appcompat-v7-27.1.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\kramn\\.gradle\\caches\\transforms-3\\636fe5f1319118333643bf6dca29e378\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

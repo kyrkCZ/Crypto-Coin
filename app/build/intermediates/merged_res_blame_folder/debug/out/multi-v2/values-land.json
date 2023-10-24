@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "com.jakub.coin.CryptoCoin.app-mergeDebugResources-8:/values-land/values-land.xml",
+            "outputFile": "com.jakub.coin.CryptoCoin.app-mergeDebugResources-21:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kramn\\.gradle\\caches\\transforms-3\\9793180ec4747a9f10f1963bf5a36a1b\\transformed\\appcompat-v7-27.1.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\kramn\\.gradle\\caches\\transforms-3\\636fe5f1319118333643bf6dca29e378\\transformed\\appcompat-1.6.1\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

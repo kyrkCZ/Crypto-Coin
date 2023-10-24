@@ -1,4 +1,4 @@
-#Thu Nov 10 13:04:13 CET 2022
-base.0=C\:\\Users\\kramn\\Documents\\GitHub\\Crypto-Coin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Tue Oct 24 14:25:58 CEST 2023
+base.0=C\:\\Users\\kramn\\AndroidStudioProjects\\Crypto-Coin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
+renamed.0=classes.dex
